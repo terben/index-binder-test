@@ -1,0 +1,4 @@
+name: index-binder-test
+
+dependencies:
+  - python>=3.6
